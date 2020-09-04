@@ -1,1 +1,2 @@
 # InternshipStudio_Project
+Firstly do download Bank_Personal_Loan_Modelling.csv
