@@ -1,5 +1,5 @@
 # InternshipStudio_Project
-Greeings!!
+Greetings!!
 
 Description of the files attached:
 
